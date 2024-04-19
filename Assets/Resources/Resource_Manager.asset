@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 239d193f6f73b9f498b276d98c81f319, type: 3}
+  m_Name: Resource_Manager
+  m_EditorClassIdentifier: 
+  _Game_Play_Manager: {fileID: 7134899791206205087, guid: ba4b470d4eb0a6f41adc7dfff79c4767, type: 3}
+  Screw_Button_Animator: {fileID: 9100000, guid: ced33f620b7e5174a9cb4983f5d91c7b, type: 2}
+  cards:
+    Card_1: {fileID: 7623298195558403629, guid: 5fbe30d29592a214bb5aa547fcec83ee, type: 3}
+    Card_2: {fileID: 7623298195558403629, guid: 6a78a0828427d1f4a803bf897613aa06, type: 3}
+    Card_3: {fileID: 7623298195558403629, guid: 55e87b586619e4e49bec76a2af58b352, type: 3}
+    Card_4: {fileID: 7623298195558403629, guid: 88187341cc642694eae97f6b3bf0a909, type: 3}
+    Card_5: {fileID: 7623298195558403629, guid: f21ba99a336ec1746b94f255dc957e42, type: 3}
+    Card_6: {fileID: 7623298195558403629, guid: 041993ddd5c33c348ad0359980ab25a3, type: 3}
+    Card_7: {fileID: 7623298195558403629, guid: d24a44bb5563eb74fb97657a1d8e97e8, type: 3}
+    Card_8: {fileID: 7623298195558403629, guid: 9dfed417df6558d4cb5b9e3ae2658d58, type: 3}
+    Card_9: {fileID: 7623298195558403629, guid: 1f47b662da44b3f4c80e6098b01595e2, type: 3}
+    Card_10: {fileID: 7623298195558403629, guid: 3e6817dc550886d418e777870a588773, type: 3}
+    Take_And_Give: {fileID: 7623298195558403629, guid: ee96f6ee6abce3b49ab04479632c0fd9, type: 3}
+    Look_All_cards: {fileID: 7623298195558403629, guid: f6f4f07ca37d28942a74b583fb926cc2, type: 3}
+    Remove_Cart: {fileID: 7623298195558403629, guid: 202de0a15f5e0a842b73ed314441e25c, type: 3}
+    Card_20: {fileID: 7623298195558403629, guid: fe057eafb09faef4b9dac8892a5632c6, type: 3}
+    Card_Myness_1: {fileID: 7623298195558403629, guid: 1f036adf6b431c04c88e337356bb2257, type: 3}
+    Card_25: {fileID: 7623298195558403629, guid: 44d271fa5a238624e95d0117ebb7e95f, type: 3}
+    Card_0: {fileID: 7623298195558403629, guid: 725f4c4625fb3b141b3077df5fae918d, type: 3}
